@@ -14,6 +14,6 @@ This Power BI dashboard analyzes Blinkit’s sales data, providing insights by *
 - Interactive charts and filters  
 
 🔗 **GitHub Repository**  
-[https://github.com/tusharbisht/Blinkit_Sales_Project](https://github.com/yourusername/Blinkit_Sales_Project)
+[https://github.com/bis52t/Blinkit_Sales_Project](https://github.com/yourusername/Blinkit_Sales_Project)
 
 #PowerBI #DataAnalytics #Dashboard #Blinkit #BusinessIntelligence
